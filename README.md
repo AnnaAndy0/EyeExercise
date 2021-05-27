@@ -1,6 +1,6 @@
 <h4> Eye Exercise </h4>
 
-<h5> Description: </h5>
+<h5> Description:  Using Javascript, CSS, and HTML, these cartoon eyes will follow your cursor around the screen. Insipired by the one and only Cookie Monster.</h5>
 <p> 
 <h4> Installation: </h4>
 <p> To have your own Cookie Monster Following Eyes, simply save the files and open up the index.html file in your browser. Enjoy! </p>
